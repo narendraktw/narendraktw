@@ -10,8 +10,8 @@
 <br/>
 ### About Me 🚀
 💻 I’m a **Lead UI developer** with a Master's degree in Master of Computer Application(MCA). </br> </br>
-👨🏼‍💻 I'm also a **technical instructor** and **advisor** who loves providing mentorship. </br></br>
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
+👨🏼‍💻 My Major work experience is to provide solutions for existing business problems via building automation tools, portals, websites, and dashboard solutions. </br></br>
+💬 Communicate with business partners, project managers, and team members to define the scope of work and provide accurate schedule estimates, assign a task to team members, code review with teammates, Support on design doc and high-level architecture of the application. </br></br>
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
 <br/>
 <hr />
@@ -31,5 +31,5 @@
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  
 </div>
