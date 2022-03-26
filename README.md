@@ -19,7 +19,7 @@
 <div align="left">
   <a href="https://github.com/narendraktw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narendraktw&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendraktw&layout=compact&langs_count=7&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendraktw&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div>
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendraktw&" alt="narendraktw" /></div>
   
