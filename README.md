@@ -12,6 +12,9 @@
 💻 I’m a **Lead UI developer** with a Master's degree in Master of Computer Application(MCA). </br> </br>
 👨🏼‍💻 My Major work experience is to provide solutions for existing business problems via building **automation tools, portals, websites, and dashboard solutions**. </br></br>
 💬 Communicate with business partners, project managers, and team members to define the scope of work and provide accurate schedule estimates, assign a task to team members, code review with teammates, Support on design doc and high-level architecture of the application. </br></br>
+
+Domain: Sales, Healthcare, Finance, eLearning, Commercial Excellence, Customer marketing and offering management team
+</br></br>
 <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
 <br/>
 <hr />
