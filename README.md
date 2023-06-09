@@ -15,6 +15,8 @@
 
 <b>Domain Worked:</b> Sales, Healthcare, Finance, eLearning, Commercial Excellence, Customer marketing and offering management team
 </br></br>
+<b>My Blog Site:</b>  <a href="https://nobietech.com/">nobietech.com</a>
+</br></br>
 <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
 <br/>
 <hr />
