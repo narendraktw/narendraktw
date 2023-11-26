@@ -9,7 +9,7 @@
 </a>
 <br/>
 ### About Me 🚀
-💻 I’m a **Lead UI developer** with a Master's degree in Master of Computer Application(MCA). </br> </br>
+💻 I’m a **Lead Front-End developer** with a Master's degree in Master of Computer Application(MCA). </br> </br>
 👨🏼‍💻 My Major work experience is to provide solutions for existing business problems via building **automation tools, portals, websites, and dashboard solutions**. </br></br>
 💬 Communicate with business partners, project managers, and team members to define the scope of work and provide accurate schedule estimates, assign a task to team members, code review with teammates, Support on design doc and high-level architecture of the application. </br></br>
 
