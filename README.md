@@ -1,23 +1,23 @@
-### Hi there! I'm Narendra Bisht, welcome to my GitHub. 🌱
+### Hi there! I'm Narendra Bisht. Welcome to my GitHub. 🌱
 
 <hr />
 <a href="https://www.linkedin.com/in/narendra-bisht-864b0315/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:narendraktw@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br/>
 ### About Me 🚀
-💻 I’m a **Lead Front-End developer** with a Master's degree in Master of Computer Application(MCA). </br> </br>
-👨🏼‍💻 My Major work experience is to provide solutions for existing business problems via building **automation tools, portals, websites, and dashboard solutions**. </br></br>
-💬 Communicate with business partners, project managers, and team members to define the scope of work and provide accurate schedule estimates, assign a task to team members, code review with teammates, Support on design doc and high-level architecture of the application. </br></br>
+💻 I’m a **Lead Front-End Developer** with a Master's degree in Computer Applications (MCA). </br> </br>
+👨🏼‍💻 My primary expertise lies in creating **automation tools, portals, websites, and dashboard solutions** to address business challenges. </br></br>
+💬 I collaborate with business partners, project managers, and team members to define project scopes, provide accurate schedule estimates, assign tasks to team members, conduct code reviews, and support the design documentation and high-level architecture of applications. </br></br>
 
-<b>Domain Worked:</b> Banking, Sales, Healthcare, Finance, eLearning, Commercial Excellence, Customer marketing and offering management team
+**Domains I Have Worked In:** Banking, Sales, Healthcare, Finance, eLearning, Commercial Excellence, Customer Marketing, and Offering Management
 </br></br>
-<b>My Blog Site:</b>  <a href="https://nobietech.com/">nobietech.com</a>
+**My Blog Site:**  <a href="https://nobietech.com/">nobietech.com</a>
 </br></br>
-<b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
+<b><i>I firmly believe that technology and software development have the power to transform lives for the better.</i></b>
 <br/>
 <hr />
 
@@ -28,16 +28,16 @@
 </div>
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendraktw&" alt="narendraktw" /></div>
   
-## ⚡ Languages & Tools I love and use<br>
+## ⚡ Languages & Tools I Love and Use
   
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
- <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />  
+  <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />  
   <img align="center" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="center" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+  <img align="center" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 </div>
